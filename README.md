@@ -8,7 +8,7 @@
 
 A capstone project that replaces traditional keyword-based file search with **natural language, semantic search** — powered by LLMs from OpenAI and Hugging Face.
 
-🔗 **Live Demo:** [Add your demo link here]
+🔗 **Live Demo:** [View Dashboard](https://kugan-29.github.io/AI_file_assist/)
 
 ---
 
@@ -45,13 +45,6 @@ User Query → LLM Embedding → Vector Similarity Search → Ranked File Result
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your API key: create a `.env` file with `OPENAI_API_KEY=your_key_here`
 4. Run the app: `python main.py`
-
-## 📸 Screenshots / Demo
-
-```
-![Search Interface](screenshots/search-demo.png)
-![Categorization Output](screenshots/categorization.png)
-```
 
 ## 📈 Impact / Learnings
 
