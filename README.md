@@ -11,7 +11,8 @@ A capstone project that replaces traditional keyword-based file search with **na
 🔗 **Live Demo:** [View Project](https://kugan-29.github.io/AI_file_assist/)
 
 ## View The Work
-! (Ai_file_assist.png)
+![User Interface](Ai_file_assist.png)
+  
 ---
 
 ## 📖 Overview
