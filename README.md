@@ -1,4 +1,4 @@
-# 🤖 AI-Powered File Management System
+# 🤖 AI- Smart File Assistant
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -60,5 +60,8 @@ User Query → LLM Embedding → Vector Similarity Search → Ranked File Result
 - Build a simple web UI for the search interface
 
 ---
+## Author
 
-📩 Questions or feedback? Reach me at kugankarthik67@gmail.com
+**Kugan J**
+Data Analyst | SQL · Power BI · Excel · Python
+[LinkedIn](https://linkedin.com/in/kugan-j) · [Portfolio](https://kugan-29.github.io/portfolio)
