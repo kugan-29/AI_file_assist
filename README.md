@@ -8,7 +8,9 @@
 
 A capstone project that replaces traditional keyword-based file search with **natural language, semantic search** — powered by LLMs from OpenAI and Hugging Face.
 
-🔗 **Live Demo:** [View Dashboard](https://kugan-29.github.io/AI_file_assist/)
+🔗 **Live Demo:** [View Project](https://kugan-29.github.io/AI_file_assist/)
+
+## View The Work
 
 ---
 
