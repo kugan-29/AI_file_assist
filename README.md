@@ -1,4 +1,8 @@
-# 🤖 AI- Smart File Assistant
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=&fontSize=80&fontColor=F2C811&animation=Stars&fontAlignY=38&desc=🤖%20AI%20Smart%20File%20Assistant&descSize=30&descColor=00F5D4&descAlignY=50" width="100%"/>
+
+<div align="Left">
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
